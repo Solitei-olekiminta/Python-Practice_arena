@@ -1,0 +1,3 @@
+name = input("Key in your  full name as per the ID: ")
+No_of_char = len(name)
+print(f"{name.title()} has {No_of_char} characters.")
